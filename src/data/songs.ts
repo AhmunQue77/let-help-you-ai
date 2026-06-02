@@ -1,0 +1,67 @@
+import { Song } from "../types";
+
+export const JUICE_WRLD_SONGS: Song[] = [
+  {
+    id: "1",
+    title: "Lucid Dreams",
+    artist: "Juice WRLD",
+    album: "Goodbye & Good Riddance",
+    duration: "3:59",
+    coverUrl: "https://storage.googleapis.com/dala-prod-public-storage/generated-images/416c0ce3-98d3-40e8-a50f-9b0759246493/cover-lucid-dreams-style-15c864ff-1780442139299.webp",
+    audioUrl: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+  },
+  {
+    id: "2",
+    title: "All Girls Are The Same",
+    artist: "Juice WRLD",
+    album: "Goodbye & Good Riddance",
+    duration: "2:45",
+    coverUrl: "https://storage.googleapis.com/dala-prod-public-storage/generated-images/416c0ce3-98d3-40e8-a50f-9b0759246493/cover-all-girls-style-03b5361d-1780442138139.webp",
+    audioUrl: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
+  },
+  {
+    id: "3",
+    title: "Robbery",
+    artist: "Juice WRLD",
+    album: "Death Race for Love",
+    duration: "4:00",
+    coverUrl: "https://storage.googleapis.com/dala-prod-public-storage/generated-images/416c0ce3-98d3-40e8-a50f-9b0759246493/cover-robbery-style-c546f34e-1780442138138.webp",
+    audioUrl: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3",
+  },
+  {
+    id: "4",
+    title: "Lean Wit Me",
+    artist: "Juice WRLD",
+    album: "Goodbye & Good Riddance",
+    duration: "2:55",
+    coverUrl: "https://storage.googleapis.com/dala-prod-public-storage/generated-images/416c0ce3-98d3-40e8-a50f-9b0759246493/cover-lucid-dreams-style-15c864ff-1780442139299.webp",
+    audioUrl: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3",
+  },
+  {
+    id: "5",
+    title: "Wishing Well",
+    artist: "Juice WRLD",
+    album: "Legends Never Die",
+    duration: "3:12",
+    coverUrl: "https://storage.googleapis.com/dala-prod-public-storage/generated-images/416c0ce3-98d3-40e8-a50f-9b0759246493/cover-all-girls-style-03b5361d-1780442138139.webp",
+    audioUrl: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3",
+  },
+  {
+    id: "6",
+    title: "Legends",
+    artist: "Juice WRLD",
+    album: "Too Soon..",
+    duration: "3:12",
+    coverUrl: "https://storage.googleapis.com/dala-prod-public-storage/generated-images/416c0ce3-98d3-40e8-a50f-9b0759246493/cover-robbery-style-c546f34e-1780442138138.webp",
+    audioUrl: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3",
+  },
+  {
+    id: "7",
+    title: "Bandit",
+    artist: "Juice WRLD",
+    album: "Bandit (Single)",
+    duration: "3:09",
+    coverUrl: "https://storage.googleapis.com/dala-prod-public-storage/generated-images/416c0ce3-98d3-40e8-a50f-9b0759246493/cover-lucid-dreams-style-15c864ff-1780442139299.webp",
+    audioUrl: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-7.mp3",
+  }
+];
